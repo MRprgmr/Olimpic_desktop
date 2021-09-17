@@ -1,0 +1,1 @@
+pyinstaller Registration.py --windowed --uac-admin --icon=mw_icon.ico
